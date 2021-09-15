@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T06:14:31.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="kYJa72FKx0Ietr4wygKR" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-15T06:46:23.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="7OIMjWfY2hx6IapqB-Ha" version="15.0.6" type="github" pages="3">
   <diagram id="lIvmAtnmsLYVc2AEwSKu" name="Page-1">
     <mxGraphModel dx="901" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,8 +252,62 @@
         <mxCell id="UsbdaC_BdFmk9nG5hLAP-0" value="Event Configuration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
           <mxGeometry x="325" y="70" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDfKiPoXJ20UcBOEUTAT-0" value="Event Type,&lt;br&gt;Event Subtype,&lt;br&gt;Source,&lt;br&gt;Event location, Raised by&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
-          <mxGeometry x="290" y="270" width="190" height="90" as="geometry" />
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="JDfKiPoXJ20UcBOEUTAT-0" target="JDfKiPoXJ20UcBOEUTAT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-0" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;Source,&lt;/li&gt;&lt;li&gt;Event location&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="295" y="270" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-2" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;sender,&lt;/li&gt;&lt;li&gt;receiver&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="545" y="270" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-4" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="320" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-5" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;raised By,&lt;/li&gt;&lt;li&gt;raised on&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="45" y="270" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-7" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="320" as="sourcePoint" />
+            <mxPoint x="290" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="JDfKiPoXJ20UcBOEUTAT-8" target="JDfKiPoXJ20UcBOEUTAT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="JDfKiPoXJ20UcBOEUTAT-8" target="JDfKiPoXJ20UcBOEUTAT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="JDfKiPoXJ20UcBOEUTAT-8" target="JDfKiPoXJ20UcBOEUTAT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-8" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;Filter = { Source , Event Location }&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="295" y="440" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-10" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;Filter = { Sender , receiver }&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="545" y="440" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-12" value="&lt;ol&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;Filter = { raisedby , raised on }&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="45" y="440" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="coGxBecN0fBcglVMEZxR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="JDfKiPoXJ20UcBOEUTAT-14" target="coGxBecN0fBcglVMEZxR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDfKiPoXJ20UcBOEUTAT-14" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;ID - &lt;/b&gt;Event configuration Id&lt;/li&gt;&lt;li&gt;Event Type,&lt;/li&gt;&lt;li&gt;Event Subtype,&lt;/li&gt;&lt;li&gt;Filter&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="295" y="610" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="coGxBecN0fBcglVMEZxR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w7hxMAN9nZTi5yEB6cQT-1" source="coGxBecN0fBcglVMEZxR-0" target="JDfKiPoXJ20UcBOEUTAT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="coGxBecN0fBcglVMEZxR-0" value="Use Case" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="120" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coGxBecN0fBcglVMEZxR-1" value="IEP service" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="w7hxMAN9nZTi5yEB6cQT-1">
+          <mxGeometry x="520" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
