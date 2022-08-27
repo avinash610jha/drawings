@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T12:40:25.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="20.2.7" etag="d1WR4tqlkzhqh8oJdDXi" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-27T15:32:35.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="QX8vnLihOI968Wjy_AUk" version="20.2.7" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="805" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="2RCarEmj-zC64uANRn-R-2" value="connectivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-3" value="global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-7" value="&lt;ul&gt;&lt;li&gt;Destination Access&lt;/li&gt;&lt;li&gt;OpenAPI (using sdk)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Workflow&lt;/li&gt;&lt;li&gt;iRPA&lt;/li&gt;&lt;li&gt;Automation Pilot&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;S2S communication&lt;/li&gt;&lt;li&gt;Listener classes&lt;/li&gt;&lt;li&gt;UsageMesurementService&lt;/li&gt;&lt;li&gt;AuditLoggerService&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="230" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-10" value="configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-12" value="&lt;ul&gt;&lt;li&gt;Internationalisation&lt;/li&gt;&lt;li&gt;dwc cloudsdk configuration for destination&lt;/li&gt;&lt;li&gt;RestTemplate for s2s communication if any&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="430" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-13" value="lms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-14" value="&lt;ul&gt;&lt;li&gt;Controller&lt;/li&gt;&lt;li&gt;Service&amp;nbsp;&lt;/li&gt;&lt;li&gt;Repository&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="605" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-16" value="util" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-17" value="&lt;ul&gt;&lt;li&gt;OaUtility&lt;/li&gt;&lt;li&gt;DwcUtility&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="730" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-18" value="model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-19" value="definition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-20" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-21" value="handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-22" value="&lt;ul&gt;&lt;li&gt;DefinitionController.java&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Workflow&lt;/li&gt;&lt;li&gt;IRPA&lt;/li&gt;&lt;li&gt;Automation Pilot&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-23" value="&lt;ul&gt;&lt;li&gt;DefinitionHandler.java&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Workflow&lt;/li&gt;&lt;li&gt;IRPA&lt;/li&gt;&lt;li&gt;Automation Pilot&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-24" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-25" value="&lt;ul&gt;&lt;li&gt;WorkflowDefinition.java&lt;br&gt;&lt;/li&gt;&lt;li&gt;IRPADefinition.java&lt;br&gt;&lt;/li&gt;&lt;li&gt;AutoPiDefinition.java&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="500" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-26" value="repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="570" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-27" value="&lt;ul&gt;&lt;li&gt;RequestModel&lt;/li&gt;&lt;li&gt;ResponseModel&lt;/li&gt;&lt;li&gt;ExceptionModel&lt;/li&gt;&lt;li&gt;DwcUtility&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="850" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-28" value="instance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-29" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-30" value="handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-31" value="&lt;ul&gt;&lt;li&gt;InstanceController.java&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Workflow&lt;/li&gt;&lt;li&gt;IRPA&lt;/li&gt;&lt;li&gt;Automation Pilot&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-32" value="&lt;ul&gt;&lt;li&gt;InstanceHandler.java&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Workflow&lt;/li&gt;&lt;li&gt;IRPA&lt;/li&gt;&lt;li&gt;Automation Pilot&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-33" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-34" value="&lt;ul&gt;&lt;li&gt;WorkflowInstance.java&lt;/li&gt;&lt;li&gt;IRPAInstance.java&lt;br&gt;&lt;/li&gt;&lt;li&gt;AutoPiInstance.java&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="947" y="500" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-35" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-36" value="&lt;ul&gt;&lt;li&gt;WorkflowService&lt;/li&gt;&lt;li&gt;IrpaService&lt;/li&gt;&lt;li&gt;AutoPiService&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="960" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-37" value="&lt;ul&gt;&lt;li&gt;DefinitionRepo&lt;/li&gt;&lt;li&gt;DefinitionRepoHanaImp&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="615" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-38" value="repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RCarEmj-zC64uANRn-R-39" value="&lt;ul&gt;&lt;li&gt;InstanceRepo&lt;/li&gt;&lt;li&gt;InstanceRepoHanaImp&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="640" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
